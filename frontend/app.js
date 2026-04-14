@@ -1,6 +1,4 @@
-
-const API_URL = "https://papuproyecto.up.railway.app";
-
+const API_URL = "https://papuproyecto.up.railway.app/api/tasks/";
 let toDoList = [];
 let editTaskModal;
 
