@@ -5,7 +5,7 @@ const taskRoutes = require('./routes/taskRoutes');
 const app = express();
 
 app.use(cors({
-    origin: 'https://papuproyecto.vercel.app',
+    origin: 'https://papuproyecto-777.vercel.app',
     credentials: true
 }));
 
